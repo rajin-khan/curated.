@@ -42,10 +42,14 @@
    - Creative applications of existing technology
 
 ### Recurring Themes:
+- **"Make your own things"** - Core philosophy: Don't settle for boring designs, create delightful objects
+- **Democratizing making** - 3D printing has leveled the playing field for invention
+- **Delight in the mundane** - Even everyday objects deserve thoughtful design
+- **Community-driven design** - Sharing, remixing, and improving designs together
 - **Maximizing existing products** - "Getting more out of things you already own"
 - **Minimalist design** - Clean, functional aesthetics
 - **Problem-solving** - Creating solutions for specific personal needs
-- **Design history** - References to Dieter Rams, Apple design, industrial design classics
+- **Design history** - References to Dieter Rams, Apple design, industrial design classics, Steve Jobs
 - **Organization & efficiency** - Optimizing workflows and spaces
 
 ## Evolution of Content Over Time
@@ -69,6 +73,8 @@
 - More personal storytelling
 - Behind-the-scenes content for members
 - Focus on "Dream Setups" series
+- **Philosophy video**: "make your own things" (1M views) - foundational manifesto explaining mission
+- **Business success**: iPhone Dock viral product turned into actual business (17M social views, hundreds shipped)
 
 ## Top Performing Content Patterns
 

@@ -12,6 +12,12 @@
 
 **Key Insight:** Scott doesn't just show what to print, but *why* each upgrade matters and how it improves the overall experience.
 
+**Foundational Philosophy (from "make your own things"):**
+- 3D printing democratized making - "the playing field has finally been leveled"
+- Technology transformed from "complicated Factory tool" to "affordable easy to use Home Appliance"
+- Invention is no longer "a privilege only accessible to those with money"
+- Focus on "the little things, the mundane things" that 3D printing transforms in daily life
+
 ### 2. Product Design Philosophy
 **Frequency:** Underlying theme in all videos  
 **Value Proposition:** Learn design thinking from a professional product designer
@@ -44,7 +50,13 @@
 
 ## Key Value Propositions
 
-### 1. **Professional Design Expertise Made Accessible**
+### 1. **Democratizing Design & Making**
+- Core mission: "make your own things" - don't settle for boring designs
+- Philosophy: Everyday objects deserve thoughtful design because we interact with them hundreds of times
+- Belief: "Everything around you that you call life was made up by people that were no smarter than you and you can change it"
+- 3D printing has leveled the playing field - invention is now accessible to anyone with an idea
+
+### 2. **Professional Design Expertise Made Accessible**
 - Scott brings real product design experience (Google, Amazon) to DIY projects
 - Teaches design principles alongside practical skills
 - Shows the *why* behind design decisions, not just the *how*
@@ -84,23 +96,47 @@ Unlike most tech YouTubers, Scott regularly references:
 - Dieter Rams and Braun design
 - Apple design history
 - Industrial design classics
+- Steve Jobs quotes about changing the world
 
 This adds:
 - Educational depth beyond just "how-to"
 - Cultural and historical context
 - Appreciation for design heritage
+- Philosophical grounding in design thinking
 
-### 3. **Art + Technology Fusion**
+### 3. **Community-Driven Design Culture**
+From "make your own things":
+- Celebrates the 3D printing community's collaborative spirit
+- Shows examples of design remixes and improvements (Hugo's Uno box, remixed by materal March)
+- Demonstrates how community members modify and improve each other's designs
+- Highlights that "most of the prints I make are actually free designs by other people"
+
+### 4. **Art + Technology Fusion**
 Projects like "Making Art with iPhone's FaceID" show:
 - Technology as creative medium
 - Experimental approaches to familiar tools
 - Blurring lines between utility and art
 
-### 4. **Maximizing Existing Products**
+### 5. **From Idea to Business**
+The iPhone Dock story (from "make your own things"):
+- Viral product: 17 million views on social media
+- Rapid business creation: Started business in just 2 weeks
+- Real-world production: Worked with 3D print farm in Toronto
+- Scale: Shipped hundreds of units in first month
+- Demonstrates 3D printing's potential for entrepreneurship
+
+### 6. **Maximizing Existing Products**
 Recurring theme: *"getting more out of things you already own"*
 - Repurposing existing technology
 - Adding functionality to current products
 - Sustainability through optimization
+
+### 7. **Delight in the Mundane**
+From "make your own things":
+- Even simple objects (like key holders) deserve thoughtful design
+- Objects we interact with hundreds of times deserve "a little bit more consideration"
+- Rejecting "boring uninspired one-size-fits-all solutions"
+- Turning "boring chores" into "fun interactions or satisfying rituals"
 
 ## Storytelling Techniques
 

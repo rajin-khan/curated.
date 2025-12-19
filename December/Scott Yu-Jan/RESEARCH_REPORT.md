@@ -4,6 +4,8 @@
 
 Scott Yu-Jan is a product designer and YouTube creator who has built an audience of over 820,000 subscribers by creating content that seamlessly blends professional design expertise with accessible DIY projects. Born in Seattle in 1994, Scott brings real-world product design experience from Google and Amazon to his YouTube channel, where he creates custom hardware solutions, 3D printing projects, and workspace optimizations that are both functional and beautiful.
 
+**His foundational philosophy, articulated in "make your own things" (1M views), centers on democratizing design and making.** Before 3D printing, Scott was deeply involved in traditional crafts (woodworking, glass blowing, casting, pottery), but when he moved to Seattle and lost access to workshop space, he found himself "tortured" by the inability to realize his ideas. 3D printing became his salvation—not just as a tool, but as a democratizing force that leveled the playing field for invention. As he explains: *"everything around you that you call life was made up by people that were no smarter than you and you can change it... so don't settle for what others have created for you make your own things."*
+
 What sets Scott apart in the crowded maker/tech YouTube space is his unique combination of professional design credentials, authentic problem-solving, and a deep appreciation for design history. Unlike many tech YouTubers who focus purely on "how-to," Scott teaches viewers to think like designers, regularly referencing Dieter Rams' principles and Apple's design philosophy while creating practical solutions to his own real-world problems.
 
 His channel has generated over 67 million views across 67 videos, with his most popular content focusing on 3D printer upgrades, custom Apple product modifications, and workspace organization. But beyond the impressive numbers, Scott has cultivated a community of makers, designers, and tech enthusiasts who appreciate both the aesthetic quality and educational depth of his content.
@@ -37,9 +39,22 @@ He explicitly applies Rams' "10 Principles of Good Design" to evaluate products 
 
 ### Origin Story
 
+**Traditional Craft Foundation:**
+Before 3D printing, Scott was deeply involved in traditional crafts: **woodworking, glass blowing, casting, and pottery**. This foundation in hands-on making informs his entire approach to design and creation.
+
+**The Catalyst:**
+When Scott moved to downtown Seattle, he lost access to his parents' garage wood shop. Wood shop memberships in the city were prohibitively expensive, leaving him "completely deprived of any ways of making stuff." As he describes in his foundational video "make your own things" (1M views): *"as a maker not being able to realize any of my ideas or make the things that I want to make this tortured me."*
+
+**The Solution:**
+3D printing became his salvation. Initially, the technology was frustrating ("a lot of late night's troubleshooting print failures, poor quality prints"), but as it improved, it transformed his ability to create. More importantly, it democratized making—turning what was once a "privilege only accessible to those with money" into something available to "anyone with an idea."
+
+**YouTube Journey:**
 Scott's YouTube journey began in 2012, but his channel truly found its voice around 2020 with his breakthrough video "First 24 Upgrades for my Ender 3 Pro - Part 1" (4.2M views). This video established his format: detailed, well-produced tutorials that combine practical how-to content with design thinking.
 
 His decision to leave Google for full-time YouTube creation (documented in "leaving Google for this" - 281K views) represents a significant moment in his career. The video shows Scott prioritizing creative fulfillment and independence over corporate stability—a decision that resonates with many in his audience who dream of similar transitions.
+
+**The Philosophy Video:**
+His video "make your own things" (1M views, 1 year ago) serves as his manifesto, explaining how 3D printing democratized invention and how everyday objects deserve better design. This video encapsulates his entire mission and philosophy.
 
 ### Other Platforms & Achievements
 
@@ -53,8 +68,13 @@ His decision to leave Google for full-time YouTube creation (documented in "leav
 - 820,000+ subscribers
 - 67+ million total views
 - Verified YouTube channel
-- Viral product creation: iPhone Standby Dock (collaboration with OVERWERK)
+- **Viral product creation: iPhone Standby Dock** (collaboration with OVERWERK)
+  - 17 million views on social media
+  - Started business in just 2 weeks
+  - Shipped hundreds of units in first month
+  - Collaborated with 3D print farm in Toronto, Canada
 - Recognition from major creators (PewDiePie shoutout)
+- **Business success**: Turned viral product into actual business, demonstrating 3D printing's potential for entrepreneurship
 
 ### Collaborations
 
@@ -65,14 +85,21 @@ His decision to leave Google for full-time YouTube creation (documented in "leav
 
 ### Mission & Vision
 
-Scott's mission centers on **democratizing design and making**. Key themes:
+Scott's mission centers on **democratizing design and making**. His foundational philosophy, articulated in "make your own things," emphasizes:
 
-1. **"Getting more out of things you already own"** - Repurposing and maximizing existing products
-2. **"Making weird solutions to unique problems"** - Embracing unconventional approaches
-3. **The intersection of art and technology** - Blending aesthetics with functionality
-4. **Teaching through doing** - Sharing the entire design process, including failures
+1. **"Make your own things"** - Don't settle for boring, uninspired designs. Everyday objects deserve consideration and delight.
+2. **Democratizing invention** - 3D printing has "leveled the playing field" - invention is no longer a privilege only for those with money
+3. **Community-driven design** - The 3D printing community shares, remixes, and improves each other's designs
+4. **Delight in the mundane** - Even simple objects like key holders deserve thoughtful design because we interact with them hundreds of times
+5. **"Getting more out of things you already own"** - Repurposing and maximizing existing products
+6. **"Making weird solutions to unique problems"** - Embracing unconventional approaches
+7. **The intersection of art and technology** - Blending aesthetics with functionality
+8. **Teaching through doing** - Sharing the entire design process, including failures
 
-His philosophy: *"isn't this the point of being a maker that we can make weird solutions to our own very unique problems"*
+**Core Quote from "make your own things":**
+*"everything around you that you call life was made up by people that were no smarter than you and you can change it you can influence you can mold it so don't settle for what others have created for you make your own things once you learn that you'll never be the same again"*
+
+This philosophy is also captured in his own words: *"isn't this the point of being a maker that we can make weird solutions to our own very unique problems"*
 
 ---
 
@@ -147,7 +174,19 @@ Every video follows a clear arc:
    - Creates objects that are beautiful, not just functional
    - Appeals to viewers who appreciate good design
 
-5. **Community Engagement**
+5. **Community-Driven Design Culture**
+   - Celebrates the 3D printing community's collaborative spirit
+   - Shows examples of design remixes and improvements
+   - Highlights that "most of the prints I make are actually free designs by other people"
+   - Demonstrates how community members modify and improve each other's designs
+
+6. **From Idea to Business**
+   - iPhone Dock story: Viral product (17M social views) turned into business in 2 weeks
+   - Shipped hundreds of units in first month
+   - Demonstrates 3D printing's potential for entrepreneurship
+   - Shows practical path from maker to entrepreneur
+
+7. **Community Engagement**
    - Responds to comment suggestions
    - Shares project files (STL files, design files)
    - Builds on viewer feedback
@@ -155,6 +194,35 @@ Every video follows a clear arc:
 ---
 
 ## Top 10 Videos Breakdown
+
+### Featured: "make your own things"
+**Views:** 1M | **Uploaded:** 1 year ago | **Video ID:** 9FHjfzS4BqQ
+
+**Key Themes:**
+- Foundational philosophy and mission statement
+- Origin story: Traditional crafts to 3D printing
+- Democratizing invention and making
+- Community-driven design culture
+- Business success story (iPhone Dock)
+
+**Value Proposition:**
+This video serves as Scott's manifesto, explaining his entire mission and philosophy. It reveals:
+- His background in traditional crafts (woodworking, glass blowing, casting, pottery)
+- The catalyst: Moving to Seattle, losing workshop access, feeling "tortured" by inability to make things
+- How 3D printing democratized making and "leveled the playing field"
+- The philosophy: "make your own things" - don't settle for boring designs
+- Real-world success: iPhone Dock went viral (17M social views), started business in 2 weeks, shipped hundreds
+
+**Notable Quotes:**
+- *"as a maker not being able to realize any of my ideas or make the things that I want to make this tortured me"*
+- *"there are so many boring designs that have infiltrated our lives and turn many things we do in into boring chores when they could be fun interactions or satisfying rituals"*
+- *"everything around you that you call life was made up by people that were no smarter than you and you can change it you can influence you can mold it so don't settle for what others have created for you make your own things once you learn that you'll never be the same again"*
+- *"the playing field has finally been leveled and it's never been easier for any of us to bring our ideas to life"*
+
+**Why This Matters:**
+This video provides essential context for understanding all of Scott's work. It explains not just what he does, but *why* he does it. Every project he creates is an embodiment of this philosophy: making delightful, thoughtful objects instead of settling for boring, mass-produced solutions.
+
+---
 
 ### 1. "First 24 Upgrades for my Ender 3 Pro - Part 1"
 **Views:** 4.2M | **Uploaded:** 5 years ago | **Length:** 13:41
@@ -286,17 +354,25 @@ Demonstrates possibilities of large-scale 3D printing. Shows how technology enab
 
 ### What Sets Scott Apart
 
-1. **Professional Designer Making DIY Content**
+1. **Foundational Philosophy: "Make Your Own Things"**
+   - Core mission: Democratizing design and making
+   - Rejects boring, mass-produced solutions
+   - Believes everyday objects deserve thoughtful design
+   - Philosophy: "everything around you that you call life was made up by people that were no smarter than you and you can change it"
+   - Demonstrates that 3D printing has "leveled the playing field" for invention
+
+2. **Professional Designer Making DIY Content**
    - Rare combination of professional expertise and accessible content
    - Brings real-world design experience (Google, Amazon) to hobby projects
    - Teaches design principles, not just techniques
 
-2. **Design Philosophy Integration**
+3. **Design Philosophy Integration**
    - Regularly references Dieter Rams' "10 Principles of Good Design"
    - Applies design history to modern projects
    - Evaluates products through design lens (see iPhone Dock video)
+   - References Steve Jobs quotes about changing the world
 
-3. **Aesthetic Focus**
+4. **Aesthetic Focus**
    - Prioritizes design quality alongside functionality
    - Creates objects that are beautiful, not just functional
    - Appeals to viewers who appreciate good design
@@ -431,16 +507,28 @@ Scott builds community through:
 
 ## Quotable Moments
 
-1. **On being a maker:**
+1. **On the core philosophy (from "make your own things"):**
+   *"everything around you that you call life was made up by people that were no smarter than you and you can change it you can influence you can mold it so don't settle for what others have created for you make your own things once you learn that you'll never be the same again"*
+
+2. **On the problem with mass-produced design:**
+   *"there are so many boring designs that have infiltrated our lives and turn many things we do in into boring chores when they could be fun interactions or satisfying rituals I'm honestly fed up with just all the boring uninspired one-size fitall solutions that we are spoonfed"* (make your own things)
+
+3. **On why everyday objects matter:**
+   *"it's just a keyh holder but it's a keyh holder it's the first object I interact with when I get home every time I get home I'll be using this object hundreds of times so doesn't it deserve a little bit more consideration than just this"* (make your own things)
+
+4. **On democratizing invention:**
+   *"the playing field has finally been leveled and it's never been easier for any of us to bring our ideas to life"* (make your own things)
+
+5. **On being a maker:**
    *"isn't this the point of being a maker that we can make weird solutions to our own very unique problems"* (Portable Mac Mini video)
 
-2. **On design philosophy:**
+6. **On design philosophy:**
    *"it felt like a spiritual collaboration between not just him and I but also between Johnny IV and deodor ROMs"* (iPhone Dock video, on collaboration with OVERWERK)
 
-3. **On workspace design:**
+7. **On workspace design:**
    *"A well-designed setup doesn't just make work easier, it makes it feel better. And when work feels good, you show up more, you finish more, and you try more. That's why this matters."* (Dream Setups #2)
 
-4. **On organization:**
+8. **On organization:**
    *"existing organizers don't organize your stuff. They just kind of divide up your stuff into smaller units of mess"* (Drawer organization video)
 
 5. **On maximizing existing products:**
@@ -467,48 +555,72 @@ Scott builds community through:
 
 ### Headline Suggestions
 
-1. **"The Product Designer Who Left Google to Make Weird Solutions on YouTube"**
+1. **"Make Your Own Things: How One Creator Is Democratizing Design"**
+   - Hook: Core philosophy and mission
+   - Angle: 3D printing as democratizing force, rejecting boring mass-produced designs
+
+2. **"From Woodworking to 3D Printing: The Maker Who Refuses to Settle for Boring Design"**
+   - Hook: Traditional crafts to modern making
+   - Angle: Origin story and philosophy evolution
+
+3. **"The Product Designer Who Left Google to Make Weird Solutions on YouTube"**
    - Hook: Career transition story
    - Angle: Professional designer pursuing creative independence
 
-2. **"How Scott Yu-Jan Teaches Design Thinking Through 3D Printing"**
+4. **"How Scott Yu-Jan Teaches Design Thinking Through 3D Printing"**
    - Hook: Educational approach
    - Angle: Professional expertise made accessible
 
-3. **"From Corporate Designer to 820K Subscribers: The Scott Yu-Jan Story"**
+5. **"From Corporate Designer to 820K Subscribers: The Scott Yu-Jan Story"**
    - Hook: Growth and success metrics
    - Angle: Career transformation
 
-4. **"Why This YouTuber Makes 'Weird Solutions' Instead of Following Trends"**
+6. **"Why This YouTuber Makes 'Weird Solutions' Instead of Following Trends"**
    - Hook: Unique philosophy
    - Angle: Authentic problem-solving approach
 
-5. **"The Maker Who Applies Dieter Rams' Principles to DIY Projects"**
+7. **"The Maker Who Applies Dieter Rams' Principles to DIY Projects"**
    - Hook: Design history connection
    - Angle: Professional design philosophy in accessible content
 
-6. **"How One Creator Built a Community Around Beautiful, Functional Design"**
+8. **"How One Creator Built a Community Around Beautiful, Functional Design"**
    - Hook: Community building
    - Angle: Aesthetic focus in maker content
 
+9. **"17 Million Views, 2 Weeks, Hundreds Shipped: How a Viral iPhone Dock Became a Business"**
+   - Hook: Business success story
+   - Angle: 3D printing as entrepreneurship tool
+
 ### Key Talking Points
 
-1. **The Professional-to-Creator Transition**
+1. **The "Make Your Own Things" Philosophy**
+   - Core mission: Don't settle for boring, mass-produced designs
+   - "Everything around you was made by people no smarter than you - you can change it"
+   - Everyday objects deserve thoughtful design because we interact with them hundreds of times
+   - 3D printing has "leveled the playing field" for invention
+   - From traditional crafts (woodworking, glass blowing) to 3D printing
+
+2. **The Professional-to-Creator Transition**
    - Leaving Google for YouTube full-time
    - Bringing corporate design experience to DIY content
    - Balancing professional expertise with accessibility
 
-2. **Design Philosophy in Action**
+3. **Design Philosophy in Action**
    - Applying Dieter Rams' principles to modern projects
    - Teaching design thinking, not just techniques
    - References to design history and Apple aesthetics
 
-3. **Authentic Problem-Solving**
+4. **Authentic Problem-Solving**
    - Solving real problems, not manufactured ones
    - "Weird solutions" philosophy
    - Personal projects that are actually used
 
-4. **Community Building Through Transparency**
+5. **From Idea to Business**
+   - iPhone Dock: 17M social views, business in 2 weeks, hundreds shipped
+   - Demonstrates 3D printing's potential for rapid entrepreneurship
+   - Collaboration with 3D print farms for production scale
+
+6. **Community Building Through Transparency**
    - Sharing failures and iterations
    - Responding to viewer suggestions
    - Providing resources and project files
@@ -518,10 +630,15 @@ Scott builds community through:
    - Blurring lines between utility and art
    - Creative applications of familiar technology
 
-6. **Quality Over Quantity**
+7. **Quality Over Quantity**
    - 2 videos every 3 months
    - Highly polished production
    - Educational depth over frequency
+
+8. **Democratizing Making**
+   - 3D printing transformed from "complicated Factory tool" to "affordable easy to use Home Appliance"
+   - Invention no longer requires money or privilege
+   - Community-driven design culture (sharing, remixing, improving)
 
 ### Potential Interview Questions
 
@@ -531,6 +648,9 @@ Scott builds community through:
    - What's been the biggest challenge in transitioning from corporate to creator?
 
 2. **Design Philosophy:**
+   - What does "make your own things" mean to you, and how did this philosophy develop?
+   - Why do you believe everyday objects deserve thoughtful design?
+   - How did moving from traditional crafts (woodworking, glass blowing) to 3D printing change your approach to making?
    - Why do you regularly reference Dieter Rams and design history in your videos?
    - How do you balance teaching design principles with practical how-to content?
    - What does "good design" mean to you in the context of DIY projects?
@@ -546,9 +666,16 @@ Scott builds community through:
    - How do you decide what project files to share vs. keep private?
 
 5. **Future & Vision:**
+   - How do you see 3D printing continuing to democratize making and invention?
+   - What does the future of community-driven design look like?
    - Where do you see the intersection of art and technology heading?
    - What projects are you most excited about for the future?
    - How do you want to evolve your content in the coming years?
+
+6. **Business & Entrepreneurship:**
+   - How did the iPhone Dock go from viral video to business in 2 weeks?
+   - What did you learn from working with a 3D print farm for production?
+   - How do you see 3D printing changing the path from idea to product?
 
 6. **Practical:**
    - What's your favorite project you've created and why?
